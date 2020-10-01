@@ -2,8 +2,8 @@
 ---
 ##### Training material
 #
-1.) https://start.learning.redhat.com/catalog/learning-path/214
-2.) https://www.istiobyexample.dev/
+- 1.) https://start.learning.redhat.com/catalog/learning-path/214
+- 2.) https://www.istiobyexample.dev/
 
 ---
 
