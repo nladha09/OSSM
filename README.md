@@ -45,7 +45,7 @@ yes
 
 ---
 
-Service Mesh & Envoy - Christian Posta https://openshift.tv 
+Service Mesh & Envoy - Christian Posta https://openshift.tv - https://www.youtube.com/watch?v=kVt7BhYi77E
 https://www.manning.com/books/istio-in-action (will be done in spring)
 - why are there so many service mesh(es)? - people have diff opinions on what networking abstractions should look like (user exp., managability ...etc. just like containers)
   - large majority are based on envoy (underneath the hood) CNCF / open source - (written in C++) 
