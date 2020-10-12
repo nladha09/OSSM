@@ -24,4 +24,9 @@ Daniel Berg & Lin Sun - Istio Explained (getting started with Service Mesh) Co-f
      - click on a request to view trace spans amoung services
   - Securing communication withi Istio (permissive mTLS (enabled by default) improves mTLS onboarding experience) if if doesn't wprk it will fall back to continue working
     - enforce mTLS traffic in the mesh w/ authentication policy (introduced in v1.5)
-  - Control Traffic 
+  - Control Traffic
+  - Debugging `istioctl analyze` or `istio describe` (analyze istio resources - yaml file, namespace, entire cluster...etc.)
+    - check proxy config - `istioctl proxy-config route istio-ingressgateway-5d6c9f74cb)
+    - check proxy status - `istioctl proxy-status`
+  - what's new in the comm - Quarterly releases
+  - istio slack - connect
