@@ -4,6 +4,7 @@
 #
 - 1.) https://start.learning.redhat.com/catalog/learning-path/214
 - 2.) https://www.istiobyexample.dev/
+- 3.) https://learn.openshift.com/servicemesh/
 
 ---
 
