@@ -70,3 +70,4 @@ https://www.manning.com/books/istio-in-action (will be done in spring)
 
 looking at case - 02792698 & turns out we're not supporting versions below 4.5 so didn't get to see how to approach that issue
 some more hands-on training: https://learn.openshift.com/servicemesh/
+secure support case AT&T - I'm curious to see how the outcome of that RFE (regardless, do I need to follow a process to obtain secure support access?)
