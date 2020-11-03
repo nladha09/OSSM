@@ -64,3 +64,9 @@ https://www.manning.com/books/istio-in-action (will be done in spring)
   - webassembly module (run in browser / envoy) take code written in preferred language (with some contraints) & compile to a binary format & run it in a VM or sandboxed env.
     - capabilities are limities (no shared memory - copy b/w VM & host; external services have to be made externally / explicitly)
     - to extend the control plane components / kubernetes itself
+
+
+---
+
+looking at case - 02792698 & turns out we're not supporting versions below 4.5 so didn't get to see how to approach that issue
+some more hands-on training: https://learn.openshift.com/servicemesh/
